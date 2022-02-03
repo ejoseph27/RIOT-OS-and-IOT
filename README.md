@@ -2,10 +2,14 @@
 
 This folder contains code for central controller,sensor node and actuator node of alarm system using MSB-IoT board
 
-Achievement
+## Achievement
 
 
 •	Successfully built an IOT home automation alarm system with minimal latency in sensor data transmission with msbIOT MCU
 
 •	Learned fundamentals of programming in C, multi-threading, network programming, driver implementation and application development for embedded systems
+
+##Additional information
+
+This graded project was a part of course curicullum, sucessflully implemented and presented along with Mr. Adarsh Raghoothaman 
 
