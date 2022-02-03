@@ -9,7 +9,7 @@ This folder contains code for central controller,sensor node and actuator node o
 
 •	Learned fundamentals of programming in C, multi-threading, network programming, driver implementation and application development for embedded systems
 
-##Additional information
+Additional information:
 
-This graded project was a part of course curicullum, sucessflully implemented and presented along with Mr. Adarsh Raghoothaman 
+This graded project was a part of course curriculum, successfully implemented and presented along with Mr. Adarsh Raghoothaman 
 
